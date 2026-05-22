@@ -26,6 +26,7 @@ rm -f teamspeak3-server_linux_amd64-3.0.13.8.tar.bz2
 ```
 Start your server for the first time (save login details and secret key to claim the server in TeamSpeak app)
 ```
+./AccountingServerEmulator-Linux start
 ./ts3server_startscript.sh start
 ```
 To stop the script press CTRL+C
